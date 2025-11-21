@@ -6,6 +6,8 @@
 3. 支持通过数据筛选勾选想要的素材，并进行导出选中数据功能，包括文本、图片以及视频等素材。
 
 使用方式（当前仅发布了Win版本）：
+https://github.com/golordmanji-stack/xhs_downloads/releases
+
 1. 下载BrowserTab_V1.01.1121.zip文件
 2. 解压BrowserTab_V1.01.1121.zip，打开文件BrowserTab_V1.01.1121，双击BrowserTab.exe启动
 3. 登录xhs后，通过关键是搜索或者浏览个人收藏目录
