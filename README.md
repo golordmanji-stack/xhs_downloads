@@ -8,8 +8,8 @@
 使用方式（当前仅发布了Win版本）：
 https://github.com/golordmanji-stack/xhs_downloads/releases
 
-1. 下载BrowserTab_V1.01.1121.zip文件
-2. 解压BrowserTab_V1.01.1121.zip，打开文件BrowserTab_V1.01.1121，双击BrowserTab.exe启动
+1. 下载BrowserTab_V1.02.zip文件
+2. 解压BrowserTab_V1.02.zip，打开文件BrowserTab_V1.02，双击BrowserTab.exe启动
 3. 登录xhs后，通过关键词搜索或者浏览个人收藏目录生成筛选数据
 4. 点击数据筛选按钮，通过搜索过滤或者直接勾选数据，选择导出选中即可完成素材下载功能。
 
