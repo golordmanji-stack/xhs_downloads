@@ -9,7 +9,7 @@
 <img width="1396" height="922" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/4af0fb4f-8b11-42fc-95a1-7868d31b2b01" />
 <img width="1199" height="826" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/b608edd5-7fb7-48c9-b255-a8a2eb886a1a" />
 <img width="800" height="528" alt="Pasted Graphic 2" src="https://github.com/user-attachments/assets/bc3700ca-3a08-4d83-8c60-ab43a0d072c9" />
-<img width="1694" height="996" alt="WX20251127-091814@2x" src="https://github.com/user-attachments/assets/c2da355a-5638-49a3-b00d-4a439ea1b00c" />
+<img width="800" height="528" alt="WX20251127-091814@2x" src="https://github.com/user-attachments/assets/c2da355a-5638-49a3-b00d-4a439ea1b00c" />
 
 
 使用方式（当前仅发布了Win版本）：
