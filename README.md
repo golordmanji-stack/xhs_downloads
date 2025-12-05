@@ -1,5 +1,7 @@
 # xhs_downloads
 提供便捷的收集素材应用工具，页面美观实用。随时欢迎大家提出需求或者改进意见！QQ群：1064541466
+使用方式（当前仅发布了Win版本）： 
+https://github.com/golordmanji-stack/xhs_downloads/releases
 
 1. 模拟真实浏览器操作，实现登录功能，并且支持自动登录功能。
 2. 支持对关键词搜索记录和账号收藏记录自动保存浏览记录功能。
@@ -11,9 +13,7 @@
 <img width="800" height="528" alt="Pasted Graphic 2" src="https://github.com/user-attachments/assets/bc3700ca-3a08-4d83-8c60-ab43a0d072c9" />
 <img width="800" height="528" alt="WX20251127-091814@2x" src="https://github.com/user-attachments/assets/c2da355a-5638-49a3-b00d-4a439ea1b00c" />
 
-
-使用方式（当前仅发布了Win版本）：
-https://github.com/golordmanji-stack/xhs_downloads/releases
+操作步骤：
 
 1. 下载BrowserTab_V1.02.zip文件
 2. 解压BrowserTab_V1.02.zip，打开文件BrowserTab_V1.02，双击BrowserTab.exe启动
