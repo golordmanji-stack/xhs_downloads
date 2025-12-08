@@ -1,8 +1,7 @@
 # xhs_downloads
 提供便捷的收集素材应用工具，页面美观实用。随时欢迎大家提出需求或者改进意见！QQ群：1064541466
-如果还有需要DY素材下载的，可以给我留言。
 
-使用方式（当前仅发布了Win版本）： 
+使用方式（当前仅发布了Win版本，如有需求Mac版本的可以给我留言）： 
 https://github.com/golordmanji-stack/xhs_downloads/releases
 
 1. 模拟真实浏览器操作，实现登录功能，并且支持自动登录功能。
