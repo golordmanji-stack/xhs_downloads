@@ -2,8 +2,7 @@
 提供便捷的收集素材应用工具，页面美观实用。随时欢迎大家提出需求或者改进意见！QQ群：1064541466
 
 使用方式（当前仅发布了Win版本）： 
-https://github.com/golordmanji-stack/xhs_downloads/releases
-
+https://github.com/golordmanji-stack/xhs_downloads/releases\r
 如有需要Mac版本的可以加群或给我留言~
 
 1. 模拟真实浏览器操作，实现登录功能，并且支持自动登录功能。
