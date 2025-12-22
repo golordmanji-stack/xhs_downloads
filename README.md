@@ -1,5 +1,5 @@
 # xhs_downloads
-提供便捷的收集素材应用工具，使用安全且页面美观实用。免费按大家的需求或者改进意见完善！QQ群：1064541466
+提供便捷的收集素材应用工具，使用安全且页面美观实用。为追求极致，免费按大家的需求或者改进意见完善！QQ群：1064541466
 
 使用方式（当前仅发布了Win版本）： https://github.com/golordmanji-stack/xhs_downloads/releases
 
