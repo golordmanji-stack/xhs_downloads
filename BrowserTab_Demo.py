@@ -29,7 +29,6 @@ class BrowserTab(QWebEngineView):
         self.loadFinished.connect(self.on_load_finished)
         self.loadProgress.connect(self.on_load_progress)
         self.urlChanged.connect(self.on_url_changed)
-        self.current_html = ""
 
     def capture_fully_rendered_html(self, callback, max_wait=15000):
         """获取完全渲染后的HTML"""
