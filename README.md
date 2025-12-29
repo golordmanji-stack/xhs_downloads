@@ -3,7 +3,7 @@
 
 使用方式（当前仅发布了Win版本）： https://github.com/golordmanji-stack/xhs_downloads/releases
 
-如果需要Mac版本的可以加群或者给我留言~
+如有需要Mac版本的可以加群或者给我留言~
 
 1. 模拟真实浏览器操作，实现登录功能，并且支持自动登录功能。
 2. 支持对关键词搜索记录和账号收藏记录自动保存浏览记录功能。
