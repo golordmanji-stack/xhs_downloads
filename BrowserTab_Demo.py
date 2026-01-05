@@ -476,7 +476,7 @@ if __name__ == '__main__':
     font = QFont("Microsoft YaHei", 10)  # 使用微软雅黑字体
     app.setFont(font)
 
-    app.setApplicationName("浏览器")
+    app.setApplicationName("模拟浏览器")
     app.setApplicationVersion("1.01")
 
     window = BrowserWindow()
