@@ -17,8 +17,8 @@
 
 操作步骤：
 
-1. 下载BrowserTab_V1.03.zip文件
-2. 解压BrowserTab_V1.03.zip，打开文件BrowserTab_V1.03，双击BrowserTab.exe启动
+1. 下载BrowserTab_V1.04.zip文件
+2. 解压BrowserTab_V1.04.zip，打开文件BrowserTab_V1.04，双击BrowserTab.exe启动
 3. 登录xhs后，通过关键词搜索或者浏览个人收藏目录生成筛选数据
 4. 点击数据筛选按钮，通过搜索过滤或者直接勾选数据，选择导出选中即可完成素材下载功能。
 
