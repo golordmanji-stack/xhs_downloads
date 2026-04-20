@@ -1,5 +1,6 @@
 # xhs_downloads
 提供便捷的收集素材应用工具，使用更加安全和人性化。优先下载高清原图和视频，免费按大家提出的意见进行优化！随时欢迎大家加入QQ群进行交流：1064541466
+
 提示：当遇到下载问题时，请及时反馈，本人会以最快的时间解决并更新新版本！
 
 使用方式（当前仅发布了Win版本）： https://github.com/golordmanji-stack/xhs_downloads/releases
