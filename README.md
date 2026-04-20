@@ -1,5 +1,6 @@
 # xhs_downloads
 提供便捷的收集素材应用工具，使用更加安全和人性化。优先下载高清原图和视频，免费按大家提出的意见进行优化！随时欢迎大家加入QQ群进行交流：1064541466
+提示：当遇到下载问题时，请及时反馈，本人会以最快的时间解决并更新新版本！
 
 使用方式（当前仅发布了Win版本）： https://github.com/golordmanji-stack/xhs_downloads/releases
 
@@ -17,8 +18,8 @@
 
 操作步骤：
 
-1. 下载BrowserTab_V1.04.zip文件
-2. 解压BrowserTab_V1.04.zip，打开文件BrowserTab_V1.04，双击BrowserTab.exe启动
+1. 下载BrowserTab_V1.05.zip文件
+2. 解压BrowserTab_V1.05.zip，打开文件BrowserTab_V1.05，双击BrowserTab.exe启动
 3. 登录xhs后，通过关键词搜索或者浏览个人收藏目录生成筛选数据
 4. 点击数据筛选按钮，通过搜索过滤或者直接勾选数据，选择导出选中即可完成素材下载功能。
 
