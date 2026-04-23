@@ -477,7 +477,7 @@ if __name__ == '__main__':
     app.setFont(font)
 
     app.setApplicationName("模拟浏览器")
-    app.setApplicationVersion("1.01")
+    app.setApplicationVersion("1.05")
 
     window = BrowserWindow()
     window.show()
