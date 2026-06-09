@@ -37,7 +37,7 @@ class BrowserTab(QWebEngineView):
 
         def attempt_capture(attempt=1):
             current_time = time.time()
-            elapsed = (current_time - start_time) * 1000  # 转毫秒
+            elapsed = (current_time - start_time) * 1000
 
             if elapsed >= max_wait:
                 print("达到最大等待时间，强制获取HTML")
