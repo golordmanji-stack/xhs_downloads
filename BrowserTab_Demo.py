@@ -11,7 +11,7 @@ from PyQt5.QtGui import QKeySequence, QFont
 from PyQt5.QtWidgets import QAction, QShortcut
 
 # 设置环境变量以避免一些兼容性问题 
-os.environ["QTWEBENGINE_CHROMIUM_FLAGS"] = "--disable-web-security --no-sandbox"
+os.environ["QTWEBENGINE_CHROMIUM_FLAGS"] = "--disable-web-security --no-sandbox" 
 
 
 class BrowserTab(QWebEngineView):
